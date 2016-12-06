@@ -1,0 +1,8 @@
+*.suo
+Code/Bin/
+Code/Shelly/bin
+Code/Shelly/obj
+Code/ListDirectories/bin
+Code/ListDirectories/obj
+Code/Clear/bin
+Code/Clear/obj
