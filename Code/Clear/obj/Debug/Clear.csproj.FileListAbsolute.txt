@@ -1,0 +1,5 @@
+X:\my\Dropbox\NET\Shelly\Bin\Debug\Commands\Clear.exe.config
+X:\my\Dropbox\NET\Shelly\Bin\Debug\Commands\Clear.exe
+X:\my\Dropbox\NET\Shelly\Bin\Debug\Commands\Clear.pdb
+X:\my\Dropbox\NET\Shelly\Clear\obj\Debug\Clear.exe
+X:\my\Dropbox\NET\Shelly\Clear\obj\Debug\Clear.pdb

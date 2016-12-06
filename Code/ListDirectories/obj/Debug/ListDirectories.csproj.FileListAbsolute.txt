@@ -1,0 +1,9 @@
+X:\my\Dropbox\NET\Shelly\ListDirectories\bin\Debug\ListDirectories.exe.config
+X:\my\Dropbox\NET\Shelly\ListDirectories\bin\Debug\ListDirectories.exe
+X:\my\Dropbox\NET\Shelly\ListDirectories\bin\Debug\ListDirectories.pdb
+X:\my\Dropbox\NET\Shelly\ListDirectories\obj\Debug\ListDirectories.csprojResolveAssemblyReference.cache
+X:\my\Dropbox\NET\Shelly\ListDirectories\obj\Debug\ListDirectories.exe
+X:\my\Dropbox\NET\Shelly\ListDirectories\obj\Debug\ListDirectories.pdb
+X:\my\Dropbox\NET\Shelly\Bin\Debug\Commands\ListDirectories.exe.config
+X:\my\Dropbox\NET\Shelly\Bin\Debug\Commands\ListDirectories.exe
+X:\my\Dropbox\NET\Shelly\Bin\Debug\Commands\ListDirectories.pdb
